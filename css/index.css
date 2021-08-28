@@ -547,10 +547,12 @@ blockquote p {
 .author-discrip h3 {
   margin: 0px;
   font-size: 1.8rem;
+  text-align: center;
 }
 .author-discrip .author-bio {
   font-size: 1.2rem;
   margin: 0.3rem 0;
+  text-align: center;
 }
 .author-links {
   display: table-cell;
