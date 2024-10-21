@@ -3,6 +3,10 @@
   contents:
     - name: Full Name
       value: Zhiwen Cui
+    - name: Position
+      value: Associate Professor
+    - name: E-mail
+      value: czw17@tsinghua.org.cn
     # - name: Date of Birth
     #   value: 14th March 1879
     # - name: Languages
@@ -17,6 +21,7 @@
       description:
         - Department of Engineering Mechanics
         - Turbulence Research Lab.
+        - "Supervisor: Prof. Lihao Zhao"
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -28,11 +33,11 @@
         - Engineering mechanics
         # - Description 2.
 
-- title: Work
+- title: Experience
   type: time_table
   contents:
     - title: Associate Professor
-      institution: Hunan University, Beijing, China
+      institution: Hunan University, Changsha, China
       year: 2024-now
       description:
         - College of Mechanical and Vehicle Engineering
@@ -46,6 +51,7 @@
       description:
         - Department of Engineering Mechanics
         - Turbulence Research Lab.
+        - "Supervisor: Prof. Lihao Zhao"
 
     # - title: Director
     #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
@@ -67,16 +73,10 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items:
-#         - Nobel Prize in Physics
-#         - Matteucci Medal
-#     - year: 2029
-#       items:
-#         - Max Planck Medal
+
+    # - year: 20
+    #   items:
+    #     - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
@@ -84,12 +84,21 @@
     - title: Particle-laden turbulent Flow.
       items:
         - Dynamics of non-spherical particle
-        - Particle-turbulence interaction
-    - title: HPC
+        - Non-spherical particles in wall turbulence
+        - Particle transport in complex wall turbulence
+        
+    - title: High Performance Computing
       items:
+        -  Large-scale parallelization and computation of particle-laden turbulent flows.
         # - Description 1.
         # - Description 2.
 
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items:
+        - Excellent PhD thesis at Tsinghua University (top 10%)
 # - title: Other Interests
 #   type: list
 #   contents:
