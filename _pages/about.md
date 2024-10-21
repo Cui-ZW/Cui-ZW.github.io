@@ -1,25 +1,30 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a> College of Mechanical and Vehicle Engineering, Hunan University.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: czw.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an associate professor at the College of Mechanical and Vehicle Engineering, Hunan University, since November 2024, specializing in dispersed multiphase turbulence. My research focuses on non-spherical particle dynamics, particle-laden turbulent flows, and the fabrication of nano-fibers/particles via turbulence. I have published over 20 articles in prestigious journals, including Science Advances, JFM, IJMF, and POF.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I earned my PhD from Tsinghua University under the supervision of [Prof. Lihao Zhao](https://www.hy.tsinghua.edu.cn/hyen/info/1162/1212.htm) at [Turbulence Research Laboratory](http://trl.hy.tsinghua.edu.cn/en/), after which I continued my research as a postdoctoral researcher at Tsinghua University from July 2022 to October 2024.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During my doctoral studies, I developed PARTURB, a Fortran program for simulating particle-laden turbulent flows, achieving direct numerical simulations with friction Reynolds numbers up to 2000. As a postdoc, I created [PhyStar (星耀)](https://phystar-group.github.io/), a comprehensive numerical simulation platform for multi-physics research, integrating various solvers for wall turbulence, particle-laden flows, and fluid-solid interactions. This platform will be collaboratively developed by Tsinghua University and Hunan University, where I will serve as the principal investigator.
+
+Welcome to join us in conducting impactful and exciting research together!
+
+<!-- At present, the code is used by research groups of many units such as Tsinghua University, Peking University, and Xi'an Jiaotong University, supporting more than 10 graduate student projects. During my postdoctoral period, I spontaneously presided over the PhyStar (Xingyao) multi-physics field scientific research platform project (C++ language), which has integrated multiple solution modules and applications such as wall turbulence, particle two-phase flow, and fluid-solid coupling. In the future, the platform will be jointly maintained by the Tsinghua and Huda teams (I am the person in charge, and 90% of the code is written by me line by line). At present, the platform has the world's leading direct numerical simulation capabilities for extreme particle turbulence two-phase flows, and will carry out research on cutting-edge scientific issues in the future. Welcome to join us and carry out interesting and influential work together. -->
