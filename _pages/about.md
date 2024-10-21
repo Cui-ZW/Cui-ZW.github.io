@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an associate professor at the College of Mechanical and Vehicle Engineering, Hunan University, since November 2024, specializing in dispersed multiphase turbulence. My research focuses on non-spherical particle dynamics, particle-laden turbulent flows, and the fabrication of nano-fibers/particles via turbulence. I have published over 20 articles in prestigious journals, including Sci. Adv., JFM, IJMF, and POF, etc.
+I am an associate professor at College of Mechanical and Vehicle Engineering, Hunan University, since November 2024, specializing in dispersed multiphase turbulence. My research focuses on non-spherical particle dynamics, particle-laden turbulent flows, and the fabrication theory of nano-fibers/particles via turbulence. I have published over 20 articles in prestigious journals, including Sci. Adv., JFM, IJMF, and POF, etc.
 
 I earned my PhD from Tsinghua University under the supervision of [Prof. Lihao Zhao (赵立豪)](https://www.hy.tsinghua.edu.cn/hyen/info/1162/1212.htm) at [Turbulence Research Laboratory](http://trl.hy.tsinghua.edu.cn/en/), after which I continued my research as a postdoctoral researcher at Tsinghua University from July 2022 to October 2024.
 
