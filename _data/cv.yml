@@ -6,7 +6,7 @@
     - name: Position
       value: Associate Professor
     - name: E-mail
-      value: czw17@tsinghua.org.cn
+      value: cuizhiwen(at)hnu.edu.cn, czw17(at)tsinghua.org.cn
     # - name: Date of Birth
     #   value: 14th March 1879
     # - name: Languages
@@ -90,6 +90,10 @@
     - title: High Performance Computing
       items:
         -  Large-scale parallelization and computation of particle-laden turbulent flows.
+
+    - title: Lagrangian Coherent Structure
+      items:
+        -  Theory and methodology
         # - Description 1.
         # - Description 2.
 
