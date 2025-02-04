@@ -9,8 +9,7 @@ profile:
   image: czw.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> </p>
-    <p> </p>
+    <p class="text-center"> <a href='https://grzy.hnu.edu.cn/site/index/cuizhiwen'>中文主页</a></p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
