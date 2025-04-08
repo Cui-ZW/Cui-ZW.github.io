@@ -6,10 +6,9 @@ subtitle: <a href='#'>Zhiwen Cui</a>, Associate Professor, College of Mechanical
 
 profile:
   align: right
-  image: czw.jpg
+  image: hit.gif
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p class="text-center"> <a href='https://grzy.hnu.edu.cn/site/index/cuizhiwen'>中文主页</a></p>
+  more_info: 
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
