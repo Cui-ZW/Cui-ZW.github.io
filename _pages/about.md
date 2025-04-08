@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Associate Professor</a>, College of Mechanical and Vehicle Engineering, Hunan University.
+subtitle: <a href='#'>Zhiwen Cui</a>, Associate Professor, College of Mechanical and Vehicle Engineering, Hunan University.
 
 profile:
   align: right
@@ -15,12 +15,14 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Hello everyone! 
 
-I'm an associate professor at College of Mechanical and Vehicle Engineering, Hunan University, since November 2024, specializing in dispersed multiphase turbulence. My research focuses on non-spherical particle dynamics, particle-laden turbulent flows, and the fabrication theory of nano-fibers/particles via turbulence. I have published over 20 articles in prestigious journals, including Sci. Adv., JFM, IJMF, Nano Lett. and PoF, etc.
+**Welcome to our group**. 
 
-I earned my PhD from Tsinghua University under the supervision of [Prof. Lihao Zhao (赵立豪)](https://www.hy.tsinghua.edu.cn/hyen/info/1162/1212.htm) at [Turbulence Research Laboratory](http://trl.hy.tsinghua.edu.cn/en/). After that, I continued my research as a postdoctoral researcher at Tsinghua University from July 2022 to October 2024.
+I'm an associate professor at College of Mechanical and Vehicle Engineering, Hunan University, since November 2024, specializing in dispersed multiphase turbulence . My research focuses on non-spherical particle dynamics, particle-laden turbulent flows, and the fabrication theory of nano-fibers/particles via turbulence. 
 
-During my doctoral studies, I developed PARTURB, a Fortran program for simulating particle-laden turbulent flows, achieving direct numerical simulations of particle-laden turbulent channel flow with friction Reynolds numbers up to 2000. As a postdoc, I created [PhyStar (星耀)](https://phystar-group.github.io/), a comprehensive numerical simulation platform for multi-physics research, integrating various solvers for wall turbulence, particle-laden flows, and fluid-solid interactions. This platform will be collaboratively developed by Tsinghua University and Hunan University, where I will serve as the principal investigator.
+ I earned my PhD from Tsinghua University under the supervision of [Prof. Lihao Zhao (赵立豪)](https://www.hy.tsinghua.edu.cn/hyen/info/1162/1212.htm) at [Turbulence Research Laboratory](http://trl.hy.tsinghua.edu.cn/en/). After that, I continued my research as a postdoctoral researcher at Tsinghua University from July 2022 to October 2024. 
+During my doctoral studies, I developed PARTURB, a Fortran program for simulating particle-laden turbulent flows, achieving direct numerical simulations of particle-laden turbulent channel flow with friction Reynolds numbers up to 2000. As a postdoc, I created [PhyStar (星耀)](https://phystar-group.github.io/), a comprehensive numerical simulation platform for multi-physics research, integrating various solvers for wall turbulence, particle-laden flows, and fluid-solid interactions. This platform will be collaboratively developed by Tsinghua University and Hunan University, where I will serve as the principal investigator. 
 
  **Welcome to join us in conducting impactful and exciting research together!**
 
